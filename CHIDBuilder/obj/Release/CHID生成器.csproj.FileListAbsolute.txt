@@ -1,0 +1,17 @@
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\MainWindow.baml
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\MainWindow.g.cs
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\App.g.cs
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.csproj.GenerateResource.Cache
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.csprojResolveAssemblyReference.cache
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.Properties.Resources.resources
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.exe.config
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.exe.manifest
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.application
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.exe
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.pdb
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder_MarkupCompile.cache
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.g.resources
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.exe.manifest
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.application
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.exe
+d:\Backup\我的文档\Visual Studio 2013\Projects\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.pdb

@@ -1,0 +1,17 @@
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.exe.config
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.exe
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.pdb
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.exe.manifest
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.application
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.exe
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\bin\Release\CHIDBuilder.pdb
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.csprojResolveAssemblyReference.cache
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\MainWindow.baml
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\MainWindow.g.cs
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\App.g.cs
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder_MarkupCompile.cache
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.g.resources
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.Properties.Resources.resources
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.csproj.GenerateResource.Cache
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.exe.manifest
+F:\Workspace\MySharp\CHIDBuilder\CHIDBuilder\obj\Release\CHIDBuilder.application

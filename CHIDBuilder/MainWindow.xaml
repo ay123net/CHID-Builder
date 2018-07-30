@@ -1,0 +1,27 @@
+﻿<Window x:Class="CHIDBuilder.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Icon="bitbug_favicon.ico" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        Title="CHID Builder V1.0" Height="380" Width="429" >
+    <Grid>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="24,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="Manufacturer" ToolTip="eg. LENOVO" />
+        <Label Content="Manufacturer" HorizontalAlignment="Left" Margin="24,6,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="149,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="ProductName" ToolTip="eg. 81F8"/>
+        <Label Content="Product Name" HorizontalAlignment="Left" Margin="149,6,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="274,32,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="BIOSVendor" ToolTip="eg. LENOVO" />
+        <Label Content="BIOS Vendor" HorizontalAlignment="Left" Margin="274,6,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="24,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="BIOSVersion" ToolTip="eg. 7YCN22WW"/>
+        <Label Content="BIOS Version" HorizontalAlignment="Left" Margin="24,76,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="149,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="MajorRelease" ToolTip="eg. 1"/>
+        <Label Content="Major Release" HorizontalAlignment="Left" Margin="149,76,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="274,102,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" Name="MinorRelease" ToolTip="eg. 22"/>
+        <Label Content="Minor Release" HorizontalAlignment="Left" Margin="274,76,0,0" VerticalAlignment="Top"/>
+        <Button Content="Generate" HorizontalAlignment="Left" Margin="24,250,0,0" VerticalAlignment="Top" Width="75" Name="BtnCHIDGenetate" Click="BtnCHIDGenetate_Click" />
+        <GroupBox Header="CHID" HorizontalAlignment="Left" Margin="24,147,0,0" VerticalAlignment="Top" Height="91" Width="370">
+            <TextBox HorizontalAlignment="Left" Height="56" Margin="0,10,-2,0" TextWrapping="Wrap" Text="" 
+                     VerticalAlignment="Top" Width="360" BorderThickness="0" Name="CHIDString" IsReadOnly="True" />
+        </GroupBox>
+        <Button Content="Copy" HorizontalAlignment="Left" Margin="115,250,0,0" VerticalAlignment="Top" Width="75" Name="BtnCHIDCopy" Click="BtnCHIDCopy_Click" />
+        <Label Content="Faster to get CHID!  --by Zero" HorizontalAlignment="Left" Margin="0,314,0,0" VerticalAlignment="Top" Width="421" Height="36" Background="#FFEEEEEE" Name="BarMessage"/>
+
+    </Grid>
+</Window>
